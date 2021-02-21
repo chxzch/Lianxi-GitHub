@@ -51,9 +51,9 @@ GitHub和Git的关系与区别
 
 <a href=https://www.githubs.cn/post/git-tutorial>Git及GitHub教程</a>  
 
-2020开发者学习路线图
+<a href=https://www.githubs.cn/post/developer-roadmap>2020开发者学习路线图</a>
 
-开发者插件推荐
+<a href=https://www.githubs.cn/post/chrome-extensions-for-developer>开发者插件推荐</a>
 
 *****************原文章來自****************
 https://www.githubs.cn/post/what-is-github
