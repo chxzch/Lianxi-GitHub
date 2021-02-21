@@ -29,7 +29,7 @@ GitHub 提供免费的 github.io子域，也支持自定义域名。
 5.学习，能力提升
 GitHub上有很多优秀开源项目和教程资源值得你去发现、学习
 
-👉GitHub面试、学习资源精选
+👉 <a href=https://www.githubs.cn/awesome>GitHub面试、学习资源精选</a>
 
 6.提升自己的影响力
 你可以将自己的开源项目发布到GitHub网站上，项目越受欢迎获得的Star越高，说明业界对你的能力越认可。一份优秀的GitHub主页，能为自己的简历润色不少。
