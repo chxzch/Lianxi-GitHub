@@ -42,7 +42,7 @@ GitHub和Git的关系与区别
 类似的网站还有gitlab.com，bitbucket.com，coding.com(国内)，gitee.com(国内)
 
 
-<a href=https://s1.ax1x.com/2020/07/31/aMrlVJ.md.jpg>圖片</a>
+<a href=https://s1.ax1x.com/2020/07/31/aMrlVJ.md.jpg><img src="https://s1.ax1x.com/2020/07/31/aMrlVJ.md.jpg"></a>
 
 本文只是对GitHub网站做了一个简单的介绍，要想真正掌握并使用它，你需要深入学习Git以及什么是分布式版本控制系统
 
