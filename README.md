@@ -49,7 +49,7 @@ GitHub和Git的关系与区别
 
 👇 请继续阅读
 
-Git及GitHub教程
+<a href=https://www.githubs.cn/post/git-tutorial>Git及GitHub教程</a>  
 
 2020开发者学习路线图
 
